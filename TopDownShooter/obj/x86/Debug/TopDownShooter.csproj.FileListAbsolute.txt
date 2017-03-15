@@ -1,0 +1,812 @@
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\Andrew\Desktop\Conestoga College\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+C:\Users\Andrew\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+E:\Semester 3\Object Oriented  Programming\Assignments\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.exe
+E:\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.pdb
+E:\TopDownShooter\TopDownShooter\obj\x86\Debug\Top Down Shooter.exe
+E:\TopDownShooter\TopDownShooter\obj\x86\Debug\Top Down Shooter.pdb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\obj\x86\Debug\Top Down Shooter.exe
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\obj\x86\Debug\Top Down Shooter.pdb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.exe
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.pdb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-20.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\GameOverScreen.xnb
+C:\Users\Amerola8443\Desktop\TopDownShooter - Chris\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelCompleteScreen.xnb
+E:\TopDownShooter - Current\TopDownShooter\obj\x86\Debug\Top Down Shooter.exe
+E:\TopDownShooter - Current\TopDownShooter\obj\x86\Debug\Top Down Shooter.pdb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-20.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\GameOverScreen.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelCompleteScreen.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.exe
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.pdb
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\Game1.cs
+E:\TopDownShooter - Current\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+E:\TopDownShooter - Current\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\Top Down Shooter.exe
+C:\Users\guywi\Desktop\TopDownShooter\TopDownShooter\obj\x86\Debug\Top Down Shooter.pdb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\obj\x86\Debug\Top Down Shooter.exe
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\obj\x86\Debug\Top Down Shooter.pdb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelOne.txt
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\highscoreLevelTwo.txt
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-20.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-50.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\fonts\ArialBold-60.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\explosions\explosions_02.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\HUD\LifeBar.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\DistantStarsBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\GameOverScreen.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelCompleteScreen.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneFinalBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\levelBackgrounds\levelOneTransparentBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\controlsSceneBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\creditSceneBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\gameDescriptionSceneBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\highscoreSceneBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\startSceneBackground.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\controlsSelected.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\creditsSelected.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\exitSelected.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\gameDescriptionSelected.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\highscoreSelected.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\menuBackgrounds\selectedMenuItems\playSelected.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\asteroid.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\miscObjects\blackhole.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\powerUps\Upgrades(162.5x162.5)813x163.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_blue.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserLarge_red.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_blue.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserMedium_red.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_green.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\laserSmall_red.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\missile.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_red.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpDouble_yellow.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_red.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\projectiles\torpSingle_yellow.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_large(160x260).xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_medium(160x160)320x160.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\enemyShip_small(80x80)160x80.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\images\ships\PlayerShip(1300x1100).xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.wma
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Hero Immortal_Trevor Lentz.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).wma
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\Lost signal main theme (WIP).xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.wma
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\low-fialexandr-zhelanov.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.wma
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\music\space_Alexandr Zhelanov.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\activate_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\alarm_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom2.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom3.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom4.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom5.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\atari_boom6.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom2.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom3.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom4.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom5.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom6.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom7.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom8.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\boom9.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\complain_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_2.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_3.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\creature_4.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\danger.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\demonic_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\flight_maneuver_2.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\global-sprite.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\health_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\laser_gun_2.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_2.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_3.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\magnetic_field_4.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\soundEffects\wind_1.xnb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Game1.cs
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.exe
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Top Down Shooter.pdb
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\guywi\Desktop\CPA Old_Files\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache

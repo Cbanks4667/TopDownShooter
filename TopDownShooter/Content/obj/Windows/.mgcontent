@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/creditSceneBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/gameDescriptionSceneBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/highscoreSceneBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/startSceneBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/selectedMenuItems/controlsSelected.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/selectedMenuItems/creditsSelected.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/selectedMenuItems/exitSelected.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/selectedMenuItems/gameDescriptionSelected.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/selectedMenuItems/highscoreSelected.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/selectedMenuItems/playSelected.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/menuBackgrounds/controlsSceneBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/explosions/explosions.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/explosions/explosions_02.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/HUD/LifeBar.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/levelBackgrounds/DistantStarsBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/levelBackgrounds/levelOneFinalBackground.jpg</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/levelBackgrounds/levelOneTransparentBackground.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/miscObjects/asteroid.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/miscObjects/blackhole.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/powerUps/Upgrades(162.5x162.5)813x163.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/laserLarge_blue.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/laserLarge_red.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/laserMedium_blue.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/laserMedium_red.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/laserSmall_green.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/laserSmall_red.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/torpDouble_red.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/torpDouble_yellow.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/torpSingle_red.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/torpSingle_yellow.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/ships/enemyShip_large(160x260).png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/ships/enemyShip_medium(160x160)320x160.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/ships/enemyShip_small(80x80)160x80.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/ships/PlayerShip(1300x1100).png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/music/Hero Immortal_Trevor Lentz.mp3</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/music/Lost signal main theme (WIP).mp3</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/music/low-fialexandr-zhelanov.mp3</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/music/space_Alexandr Zhelanov.mp3</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/atari_boom.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/atari_boom2.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/atari_boom3.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/atari_boom4.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/atari_boom5.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/atari_boom6.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/laser1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom2.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom3.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom4.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom5.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom6.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom7.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom8.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/boom9.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/activate_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/alarm_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/complain_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/creature_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/creature_2.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/creature_3.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/creature_4.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/danger.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/demonic_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/flight_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/flight_maneuver_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/flight_maneuver_2.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/global-sprite.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/health_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/laser_gun_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/laser_gun_2.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/magnetic_field_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/magnetic_field_2.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/magnetic_field_3.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/magnetic_field_4.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/wind_1.wav</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/projectiles/missile.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/fonts/ArialBold-50.spritefont</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/fonts/ArialBold-60.spritefont</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/levelBackgrounds/GameOverScreen.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/images/levelBackgrounds/levelCompleteScreen.png</File>
+    <File>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/fonts/ArialBold-20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

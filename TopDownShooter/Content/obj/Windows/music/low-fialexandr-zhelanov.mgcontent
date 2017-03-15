@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/music/low-fialexandr-zhelanov.mp3</SourceFile>
+  <SourceTime>2016-12-05T01:06:32-05:00</SourceTime>
+  <DestFile>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/bin/Windows/music/low-fialexandr-zhelanov.xnb</DestFile>
+  <DestTime>2017-03-15T17:12:54.5342798-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/bin/Windows/music/low-fialexandr-zhelanov.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

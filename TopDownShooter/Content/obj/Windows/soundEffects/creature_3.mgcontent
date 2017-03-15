@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/soundEffects/creature_3.wav</SourceFile>
+  <SourceTime>2012-07-29T00:42:54-04:00</SourceTime>
+  <DestFile>C:/Users/guywi/Desktop/CPA Old_Files/TopDownShooter/TopDownShooter/Content/bin/Windows/soundEffects/creature_3.xnb</DestFile>
+  <DestTime>2017-03-15T17:13:00.985886-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
